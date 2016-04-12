@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>HTML5 Web App</title>
+		<meta  charset="utf-8">
+	</head>
+
+	<body>
+		<h1>HTML 5 Topics</h1>
+		<h2>What's in the contents</h2>
+		<ul><!--A 'ul' (Unordered List) primarily exists to contain "List Items". Without 'li' elements, it's an empty list.-->
+			<li>All about HTML5</li>
+			<li>Significants of HTML5</li>
+		ete.
+		</ul>
+		<pre><!--"PREformatted text", meaning "I've set this up just the way I want it, don't mess with it."-->
+			<p>Note: I wants my page to be as I have written in this paragraph</p>
+		</pre>
+		<p>Welcome to the Introduction to HTML 5. The first tag we will be learning about is  the &lt;html&gt; tag.</p>
+	  <!--Character Entity Encoding, We do not want these special characters to be processed by the browser as HTML code. Instead, 
+			you want it to be displayed to the user. So if you wish to display this in your browser:-->
+		<img src="images/test.png">
+		<p>&lt;img scr=&quot;images/test.png&quot;&gt;</p> 
+		<a href="https://w3.org">W3C & HTML5</a>
+		<p>&lt;a href=&quot;https://w3.org&quot;&gt;W3C &amp; HTML5&lt;/a&gt;</p>
+		<q>God is good</q><!-- This is a quote tag-->
+		<blockquote>Good is good all the time, and all the time God is good
+			<br>Jesus is coming again, but not as a lamb but as a lion.
+		</blockquote>
+		<br><!--Line break-->
+	
+	</body>
+</html>
